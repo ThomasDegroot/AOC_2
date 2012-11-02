@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>ERP Tool</name>
+
+<description>
+Toms Tool.
+</description>
+
+<author href="https://thomasdegrootsolutions.com" email="info@thomasdegrootsolutions.com">
+Thomas degroot
+</author>
+  <icon src="icon_072.png" width="72" height="72" />
+  <icon src="icon_048.png" width="48" height="48" />
+  <icon src="icon_036.png" width="36" height="36" />
+  <gap:splash src="intro.png" />
+</widget>
